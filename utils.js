@@ -1,0 +1,1 @@
+export const slug = (s) => s.trim().toLowerCase().replace(/\s+/g, '-');
